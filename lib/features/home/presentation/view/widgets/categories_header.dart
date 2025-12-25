@@ -14,8 +14,6 @@ class CategoriesHeader extends StatelessWidget {
           'Categories',
           style: TextStyles.bold18,
         ),
-        // Spacer(),
-        // Icon(Icons.arrow_forward_rounded)
       ],
     );
   }
